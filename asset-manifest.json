@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Responsive_todo/static/css/main.0faf82d1.chunk.css",
+    "main.js": "/Responsive_todo/static/js/main.681ac8cd.chunk.js",
+    "main.js.map": "/Responsive_todo/static/js/main.681ac8cd.chunk.js.map",
+    "runtime-main.js": "/Responsive_todo/static/js/runtime-main.2b77199d.js",
+    "runtime-main.js.map": "/Responsive_todo/static/js/runtime-main.2b77199d.js.map",
+    "static/js/2.0fab6daa.chunk.js": "/Responsive_todo/static/js/2.0fab6daa.chunk.js",
+    "static/js/2.0fab6daa.chunk.js.map": "/Responsive_todo/static/js/2.0fab6daa.chunk.js.map",
+    "static/js/3.32d148e2.chunk.js": "/Responsive_todo/static/js/3.32d148e2.chunk.js",
+    "static/js/3.32d148e2.chunk.js.map": "/Responsive_todo/static/js/3.32d148e2.chunk.js.map",
+    "index.html": "/Responsive_todo/index.html",
+    "static/css/main.0faf82d1.chunk.css.map": "/Responsive_todo/static/css/main.0faf82d1.chunk.css.map",
+    "static/js/2.0fab6daa.chunk.js.LICENSE.txt": "/Responsive_todo/static/js/2.0fab6daa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b77199d.js",
+    "static/js/2.0fab6daa.chunk.js",
+    "static/css/main.0faf82d1.chunk.css",
+    "static/js/main.681ac8cd.chunk.js"
+  ]
+}
