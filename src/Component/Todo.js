@@ -79,13 +79,13 @@ function Todo() {
             <div className="main-div">
                 <div className="child-div">
                     <figure>
-                        <img src="./Image/Todo.jpg" alt="bjvsd" />
-                        <figcaption>✌ Add Your List Here ✌</figcaption>
+                        <img src="./Image/Todo.jpg" alt="Todo Images" />
+                        <figcaption> Add Your item Here ✌</figcaption>
                     </figure>
                     <div className="addItems">
                         <input
                             type="text"
-                            placeholder=" 🐱‍👓Add item "
+                            placeholder="Add item "
                             className="form-control"
                             value={inputData}
                             onChange={(e) => setinputData(e.target.value)} />
